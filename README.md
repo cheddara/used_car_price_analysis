@@ -99,11 +99,7 @@ The model generalizes well and provides actionable insight into the primary pric
 
 ---
 ## Visulas 
-
-https://github.com/cheddara/used_car_price_analysis/blob/main/practical_application_II_starter/images/price_by_manufacture.png
-https://github.com/cheddara/used_car_price_analysis/blob/main/practical_application_II_starter/images/price_distribution.png
-https://github.com/cheddara/used_car_price_analysis/blob/main/practical_application_II_starter/images/price_vs_car_age.png
-https://github.com/cheddara/used_car_price_analysis/blob/main/practical_application_II_starter/images/price_vs_mileage.png
+https://github.com/cheddara/used_car_price_analysis/blob/main/images/price_by_manufacture.png
 
 
 ## 📎 Notes
